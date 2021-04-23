@@ -1,0 +1,1 @@
+21 Jul 2019 16:21:12 GMT: Log 'EclipseCompiler.txt' opened: 21 Jul 2019 16:21:12 GMT with name E:\CSE220\lab\L8\EclipseCompiler.txt
